@@ -1,0 +1,5 @@
+/* Membatasi tinggi block code */
+.md-typeset pre > code {
+    max-height: 400px;
+    overflow-y: auto;
+}
