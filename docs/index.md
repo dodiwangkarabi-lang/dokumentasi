@@ -2,6 +2,12 @@
 gambar
 ![gambar](pendahuluan/gambar1.png)
 <br>
+<iframe
+    src="pendahuluan/file1.pdf"
+    width="100%"
+>
+</iframe>
+<br>
 <br>
 <a href="pendahuluan/file1.pdf" target="_blank">
     File PDF

@@ -2,21 +2,34 @@ site_name: My Docs
 site_description: Dokumentasi
 site_author: Dodiman
 
+markdown_extensions: 
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+extra: 
+  generator: false
+
 theme: 
   name: material
   language: id
 
   features:
     - navigation.tabs
+    - navigation.top
     - navigation.sections
     - navigation.expand
-    - navigation.top
     - search.suggest
     - search.highlight
     - content.code.copy
 
 nav:
-  - Beranda: index.md
+  - Dashboard: 
+    - Data:
+      - instalasi: index.md
+      - homenya: python/index.md
   - Home: beranda.md
 
 
