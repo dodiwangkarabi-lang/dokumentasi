@@ -12,6 +12,9 @@ markdown_extensions:
 extra: 
   generator: false
 
+extra_css: 
+  - assets/css/custom.css
+
 theme: 
   name: material
   language: id
