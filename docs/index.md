@@ -1,7 +1,11 @@
 # Dokumentasi Dodiman
 gambar
 ![gambar](pendahuluan/gambar1.png)
-
+<br>
+<br>
+<a href="pendahuluan/file1.pdf" target="_blank">
+    File PDF
+</a>
 
 <div style="
     width: 100%;
