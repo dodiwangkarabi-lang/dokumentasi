@@ -1,0 +1,22 @@
+site_name: My Docs
+site_description: Dokumentasi
+site_author: Dodiman
+
+theme: 
+  name: material
+  language: id
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Beranda: index.md
+  - Home: beranda.md
+
+
