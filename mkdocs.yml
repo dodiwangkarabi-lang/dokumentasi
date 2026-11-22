@@ -34,5 +34,6 @@ nav:
       - instalasi: index.md
       - homenya: python/index.md
   - Home: beranda.md
+  - Main: main.md
 
 
