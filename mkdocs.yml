@@ -35,5 +35,8 @@ nav:
       - homenya: python/index.md
   - Home: beranda.md
   - Main: main.md
+  - React:
+    - web:
+      - index: reactWeb/index.md
 
 
